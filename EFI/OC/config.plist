@@ -345,6 +345,24 @@
 	</dict>
 	<key>DeviceProperties</key>
 	<dict>
+		<key>Add</key>
+		<dict>
+			<key>PciRoot(0x1)/Pci(0x8,0x1)/Pci(0x0,0x6)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Built-In</string>
+				<key>AFGLowPowerState</key>
+				<data>AwAAAA==</data>
+				<key>device_type</key>
+				<string>Audio Device</string>
+				<key>layout-id</key>
+				<data>FQAAAA==</data>
+				<key>name</key>
+				<string>Realtek Audio Controller</string>
+				<key>model</key>
+				<string>Realtek ALC256</string>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
