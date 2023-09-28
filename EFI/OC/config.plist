@@ -2137,7 +2137,7 @@
 				<key>StartupMute</key>
 				<data>AA==</data>
 				<key>boot-args</key>
-				<string>npci=0x3000 -vi2c-force-polling</string>
+				<string>-v keepsyms=1 npci=0x3000 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
