@@ -2253,7 +2253,7 @@
 				<key>StartupMute</key>
 				<data>AA==</data>
 				<key>boot-args</key>
-				<string>npci=0x3000 -vi2c-force-polling -amfipassbeta amfi=0x80</string>
+				<string>-v keepsyms=1 npci=0x3000 -vi2c-force-polling -amfipassbeta amfi=0x80</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
