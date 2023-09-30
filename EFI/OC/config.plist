@@ -464,11 +464,11 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AMDRyzenCPUPowerManagement.kext</string>
+				<string>Extra/AMDRyzenCPUPowerManagement.kext</string>
 				<key>Comment</key>
 				<string>AMDRyzenCPUPowerManagement.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AMDRyzenCPUPowerManagement</string>
 				<key>MaxKernel</key>
@@ -482,11 +482,11 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>SMCAMDProcessor.kext</string>
+				<string>Extra/SMCAMDProcessor.kext</string>
 				<key>Comment</key>
 				<string>SMCAMDProcessor.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCAMDProcessor</string>
 				<key>MaxKernel</key>
