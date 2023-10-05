@@ -500,11 +500,11 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AmdTscSync.kext</string>
+				<string>Extra/AmdTscSync.kext</string>
 				<key>Comment</key>
 				<string>AmdTscSync.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AmdTscSync</string>
 				<key>MaxKernel</key>
