@@ -112,15 +112,15 @@
 				<key>PP_EnableUploadFirmware</key>
 				<integer>0</integer>
 				<key>PP_Falcon_QuickTransition_Enable</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>PP_GfxOffControl</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>PP_PhmUseDummyBackEnd</key>
 				<integer>0</integer>
 				<key>PP_ToolsLogSpaceSize</key>
 				<integer>524288</integer>
 				<key>PP_WorkLoadPolicyMask</key>
-				<integer>4</integer>
+				<integer>16</integer>
 			</dict>
 		</dict>
 		<key>com.ChefKissInc.NootedRed</key>
@@ -140,7 +140,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.15</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2022-2023 ChefKiss Inc. All rights reserved.</string>
+	<string>Copyright © 2022-2023 ChefKiss Inc. Licensed under the Thou Shalt Not Profit License version 1.5. See https://github.com/ChefKissInc/NootedRed/LICENSE for details.</string>
 	<key>OSBundleCompatibleVersion</key>
 	<string>1.0</string>
 	<key>OSBundleLibraries</key>
