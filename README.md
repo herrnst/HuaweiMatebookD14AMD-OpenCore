@@ -122,6 +122,7 @@ Credits and thank you's for parts used throughout this OpenCore configuration bu
 - [RehabMan](https://github.com/RehabMan) for [NullEthernet](https://github.com/RehabMan/OS-X-Null-Ethernet) (makes Apple services - ie. AppStore - work)
 - [qhuyduong](https://github.com/qhuyduong) for the [AMD ZEN patched AppleALC](https://github.com/qhuyduong/AppleALC) (found via [adhocfra](https://github.com/adhocfra/HuaweiMatebookD14RyzenHackintosh)'s Matebook EFI)
 - [Dortania](https://github.com/dortania) for all guides, SSDT patches and whatnot
+- [CorpNewt](https://github.com/corpnewt) for all kinds of various (SSDT) helper tools like GenSMBIOS or SSDTTime
 
 Currently unused but credited anyway of course:
 
