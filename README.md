@@ -9,7 +9,7 @@ OpenCore configuration bundle/package for running macOS on the Huawei Matebook D
 | CPU             | AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx          |
 | GPU             | AMD Radeon Vega 8 (iGPU)                               |
 | RAM             | Hynix 8GB DualChannel DDR4 (fixed, soldered)           |
-| SSD/NVMe        | Samsung PM981 512GB (MZ-VLB5120)                       |
+| SSD/NVMe        | Samsung PM981 512GB (MZ-VLB5120)<br>(might have compatibility issues) |
 | WiFi/BT         | Realtek RTL8822CE (M.2 PCIe A/E key) (**unsupported**) |
 | Audio           | Realtek ALC256 (AppleALC layout ID 21)                 |
 | Built-in camera | ov9734_azurewave_camera (UVC camera, no picture)       |
@@ -31,8 +31,13 @@ though continuity features are not supported (but not used or required at all).
 
 ### Replaced SSD
 
-The Samsung PM981 512GB SSD was replaced by a WD_BLACK SN770 1TB, though not due to compatibility issues. This was done solely for the reason
-that the laptop runs a triple-boot setup (Win11, Linux and macOS), which makes the 512GB a bit limiting.
+The Samsung PM981 512GB SSD was replaced by a WD_BLACK SN770 1TB, solely for the reason that the laptop runs a triple-boot setup
+(Win11, Linux and now also macOS).
+
+**NOTE**: There were at least two individual reports of issues with the stock Samsung SSD,
+in that the macOS installation hangs and will ultimately fail, with NVMeFix not being of any help here. In this case, it's probably
+the best to simply replace the stock SSD. Please consult ie. the NVMeFix documentation or all the various Hackintosh Forums and
+Discords for advice on what works and what not.
 
 ## Compatibility
 
