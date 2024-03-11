@@ -934,15 +934,15 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AirportItlwm-Sonoma/AirportItlwm.kext</string>
+				<string>AirportItlwm-Sonoma14.0/AirportItlwm.kext</string>
 				<key>Comment</key>
-				<string>AirportItlwm for macOS 14 Sonoma</string>
+				<string>AirportItlwm for macOS 14 Sonoma 14.0-14.3.x</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportItlwm</string>
 				<key>MaxKernel</key>
-				<string>23.99.99</string>
+				<string>23.3.99</string>
 				<key>MinKernel</key>
 				<string>23.0.0</string>
 				<key>PlistPath</key>
