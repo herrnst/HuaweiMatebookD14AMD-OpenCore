@@ -1149,7 +1149,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AdvancedMap</string>
 				<key>MaxKernel</key>
-				<string>23.99.99</string>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
