@@ -2145,7 +2145,7 @@
 				<key>boot-args</key>
 				<string>npci=0x3000 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
-				<data>AQAAAA==</data>
+				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZGU6Mw==</data>
 				<key>run-efi-updater</key>
