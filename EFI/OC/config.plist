@@ -2125,6 +2125,8 @@
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
+				<key>revpatch</key>
+				<string>memtab,pci,cpuname,sbvmm</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
@@ -2141,7 +2143,7 @@
 				<key>StartupMute</key>
 				<data>AA==</data>
 				<key>boot-args</key>
-				<string>npci=0x3000 -vi2c-force-polling revpatch=memtab,pci,cpuname,sbvmm</string>
+				<string>npci=0x3000 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>AQAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -2158,6 +2160,7 @@
 			</array>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<array>
+				<string>revpatch</string>
 				<string>rtc-blacklist</string>
 			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
