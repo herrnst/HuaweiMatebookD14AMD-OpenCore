@@ -1229,7 +1229,24 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Comment</key>
+				<string>Allow IOSkywalkFamily Downgrade</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Identifier</key>
+				<string>com.apple.iokit.IOSkywalkFamily</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>24.0.0</string>
+				<key>Strategy</key>
+				<string>Exclude</string>
+			</dict>
+		</array>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
