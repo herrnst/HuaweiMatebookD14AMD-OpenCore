@@ -453,6 +453,19 @@
 				<key>model</key>
 				<string>Realtek ALC256</string>
 			</dict>
+			<key>PciRoot(0x1)/Pci(0x1,0x7)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>IOName</key>
+				<string>pci14e4,43a0</string>
+				<key>AAPL,slot-name</key>
+				<string>Built-In</string>
+				<key>device_type</key>
+				<string>Network Controller</string>
+				<key>name</key>
+				<string>Intel Corporation Wi-Fi 6E</string>
+				<key>model</key>
+				<string>Intel AX210</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
