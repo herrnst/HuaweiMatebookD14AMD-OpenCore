@@ -86,6 +86,14 @@
 				<key>Path</key>
 				<string>SSDT-SLPB.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-WIFI.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-WIFI.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
