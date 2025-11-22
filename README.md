@@ -117,8 +117,9 @@ Credits and thank you's for parts used throughout this OpenCore configuration bu
 - The [AMD-OSX](https://github.com/AMD-OSX) team and project for the macOS [AMD patches](https://github.com/AMD-OSX/AMD_Vanilla)
 - [ChefKissInc](https://github.com/ChefKissInc) for
   - [NootedRed](https://github.com/ChefKissInc/NootedRed) (AMD iGPU support)
-  - [RadeonSensor](https://github.com/ChefKissInc/RadeonSensor) (GPU sensors)
-- [1Revenger1](https://github.com/1Revenger1) for [ECEnabler](https://github.com/1Revenger1/ECEnabler)
+  - [ForgedInvariant](https://github.com/ChefKissInc/ForgedInvariant) (CPU TSC sync)
+  - [SMCRadeonSensors](https://github.com/ChefKissInc/SMCRadeonSensors) (GPU sensors)
+- [averycblack](https://github.com/averycblack) for [ECEnabler](https://github.com/averycblack/ECEnabler)
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) for [AirpotItlwm](https://github.com/OpenIntelWireless/itlwm) and [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [RattletraPM](https://github.com/RattletraPM) for [GUX-RyzenXHCIFix](https://github.com/RattletraPM/GUX-RyzenXHCIFix)
 - The [VoodooI2C](https://github.com/VoodooI2C) team and project for [I2C (touchpad)](https://github.com/VoodooI2C/VoodooI2C) support
