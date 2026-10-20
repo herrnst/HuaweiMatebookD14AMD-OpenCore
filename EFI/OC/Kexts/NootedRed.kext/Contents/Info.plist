@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>BuildMachineOSBuild</key>
-	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -20,28 +18,8 @@
 	<string>0.9.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CFBundleSupportedPlatforms</key>
-	<array>
-		<string>MacOSX</string>
-	</array>
 	<key>CFBundleVersion</key>
 	<string>0.9.0</string>
-	<key>DTCompiler</key>
-	<string>com.apple.compilers.llvm.clang.1_0</string>
-	<key>DTPlatformBuild</key>
-	<string>25F70</string>
-	<key>DTPlatformName</key>
-	<string>macosx</string>
-	<key>DTPlatformVersion</key>
-	<string>26.5</string>
-	<key>DTSDKBuild</key>
-	<string>25F70</string>
-	<key>DTSDKName</key>
-	<string>macosx26.5</string>
-	<key>DTXcode</key>
-	<string>2660</string>
-	<key>DTXcodeBuild</key>
-	<string>17F113</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>org.ChefKiss.NootedRed</key>
@@ -58,10 +36,8 @@
 			<string>IOKit</string>
 		</dict>
 	</dict>
-	<key>LSMinimumSystemVersion</key>
-	<string>10.14</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2022-2025 ChefKiss. Licensed under the Thou Shalt Not Profit License version 1.5. See https://github.com/ChefKissInc/NootedRed/LICENSE for details.</string>
+	<string>Copyright © 2022-2026 ChefKiss. Licensed under the ChefKiss Open Knowledge License version 1. You should have received a copy of the ChefKiss Open Knowledge License along with this work. If not, see https://git.chefkiss.dev/ChefKiss/OpenKnowledge/raw/branch/master/LICENSE-v1.md.</string>
 	<key>OSBundleCompatibleVersion</key>
 	<string>0.9.0</string>
 	<key>OSBundleLibraries</key>
