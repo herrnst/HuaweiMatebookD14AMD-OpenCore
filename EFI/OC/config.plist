@@ -1069,6 +1069,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>SimpleHDA.kext</string>
+				<key>Comment</key>
+				<string>SimpleHDA.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SimpleHDA</string>
+				<key>MaxKernel</key>
+				<string>25.99.99</string>
+				<key>MinKernel</key>
+				<string>25.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>Extra/RtWlanU.kext</string>
 				<key>Comment</key>
 				<string>RtWlanU.kext</string>
@@ -2161,7 +2179,7 @@
 				<key>StartupMute</key>
 				<data>AA==</data>
 				<key>boot-args</key>
-				<string>npci=0x3000 -vi2c-force-polling</string>
+				<string>keepsyms=1 npci=0x3000 -vi2c-force-polling</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
