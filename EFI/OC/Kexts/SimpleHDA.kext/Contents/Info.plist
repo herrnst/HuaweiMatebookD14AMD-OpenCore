@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24G830</string>
+	<string>25G332</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,29 +17,29 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24F74</string>
+	<string>25F70</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>15.5</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>24F74</string>
+	<string>25F70</string>
 	<key>DTSDKName</key>
-	<string>macosx15.5</string>
+	<string>macosx26.5</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17F42</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>SimpleHDA</key>
